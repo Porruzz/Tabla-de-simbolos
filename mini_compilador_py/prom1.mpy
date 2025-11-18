@@ -1,0 +1,11 @@
+# prom1.mpy
+
+x = 10
+y = 20
+
+def sumar(a, b):
+    c = a + b
+    return c
+
+z = sumar(x, y)
+print(z)
